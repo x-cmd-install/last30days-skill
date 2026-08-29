@@ -1,0 +1,59 @@
+about:
+  description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+  license: MIT
+  homepage: 
+  head: a218eda
+  archived: false
+  latestVersion: v3.21.1
+  collectedAt: 2026-08-29T07:23:18Z
+timeline:
+  created: 2026-01-23
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-18
+popularity:
+  star: 60021
+  watcher: 215
+  fork: 5256
+  release: 41
+  contributor: 118
+  pullRequest: 320
+  issue: 253
+language:
+  Python: 4755090
+  Go: 47726
+  Shell: 30303
+  HTML: 11344
+totalLine: 4844463
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 4
+    mergedPR: 31
+    openPR: 63
+    closedIssue: 3
+    openIssue: 35
+    commit: 36
+  last90d:
+    since: 2026-05-31
+    release: 27
+    mergedPR: 288
+    openPR: 79
+    closedIssue: 65
+    openIssue: 70
+    commit: 437
+  last180d:
+    since: 2026-03-02
+    release: 40
+    mergedPR: 469
+    openPR: 79
+    closedIssue: 141
+    openIssue: 94
+    commit: 796
+  last360d:
+    since: 2025-09-03
+    release: 41
+    mergedPR: 471
+    openPR: 79
+    closedIssue: 159
+    openIssue: 94
+    commit: 959
