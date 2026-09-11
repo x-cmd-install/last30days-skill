@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 61,821 · **Forks**: 5,390 · **Open issues**: 261 · **Contributors**: 127
+- **Stars**: 61,846 · **Forks**: 5,395 · **Open issues**: 261 · **Contributors**: 127
 
 ## Totals (cumulative)
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:50:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:02:51Z._
