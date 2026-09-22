@@ -30,8 +30,8 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 62,487 · **Forks**: 5,445 · **Open issues**: 264 · **Contributors**: 140
+- **Stars**: 62,586 · **Forks**: 5,453 · **Open issues**: 265 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 545 · **Open PRs**: 40 · **Closed issues**: 190 · **Open issues**: 74 · **Commits**: 1264
+- **Releases**: 46 · **Merged PRs**: 545 · **Open PRs**: 43 · **Closed issues**: 190 · **Open issues**: 75 · **Commits**: 1264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 5 | 58 | 10 | 15 | 4 | 74 |
-| last60d | 2026-07-23 | 13 | 131 | 34 | 37 | 28 | 114 |
-| 90d | 2026-06-23 | 32 | 253 | 39 | 59 | 40 | 289 |
-| last180d | 2026-03-25 | 42 | 531 | 40 | 154 | 66 | 779 |
-| 360d | 2025-09-26 | 46 | 545 | 40 | 190 | 74 | 1033 |
-| last720d | 2024-10-01 | 46 | 545 | 40 | 190 | 74 | 1264 |
+| 30d | 2026-08-23 | 5 | 56 | 13 | 14 | 5 | 74 |
+| last60d | 2026-07-24 | 13 | 125 | 37 | 33 | 27 | 114 |
+| 90d | 2026-06-24 | 31 | 248 | 42 | 58 | 41 | 289 |
+| last180d | 2026-03-26 | 42 | 531 | 43 | 153 | 65 | 779 |
+| 360d | 2025-09-27 | 46 | 545 | 43 | 190 | 75 | 1033 |
+| last720d | 2024-10-02 | 46 | 545 | 43 | 190 | 75 | 1264 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:20:14Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:22:30Z._
