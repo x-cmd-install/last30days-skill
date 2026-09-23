@@ -4,7 +4,7 @@
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-[![x-cmd/install — last30days-skill Code Quality Monitoring Repo Card](https://repo.x-cmd.io/last30days-skill.svg?lang=zh)](https://x-cmd.com/install/last30days-skill)
+[![x-cmd/install — last30days-skill Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/last30days-skill.svg?lang=zh)](https://x-cmd.com/install/last30days-skill)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install last30days-skill
 
 ## 代码洞察
 
-合计: **118,665** 行代码（覆盖前 5 种语言、共 **395** 个文件）。
+合计: **118,666** 行代码（覆盖前 5 种语言、共 **395** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 113,175 | 6,978 | 19,101 | 338 |
+| Python | 113,176 | 6,978 | 19,101 | 338 |
 | JavaScript | 1,923 | 74 | 18 | 11 |
 | Json | 1,577 | 0 | 0 | 29 |
 | Go | 1,418 | 165 | 158 | 11 |
@@ -42,27 +42,27 @@ x install last30days-skill
 ## 发布
 
 - **最新版本**: `v3.25.0` (2026-09-18)
-- **最近提交**: 2026-09-19
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 62,586 · **Fork**: 5,453 · **开放 issue**: 265 · **贡献者**: 140
+- **Star**: 62,682 · **Fork**: 5,454 · **开放 issue**: 266 · **贡献者**: 142
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 545 · **开放 PR**: 43 · **已关闭 issue**: 190 · **开放 issue**: 75 · **提交数**: 1264
+- **发布数**: 46 · **已合并 PR**: 549 · **开放 PR**: 37 · **已关闭 issue**: 194 · **开放 issue**: 72 · **提交数**: 1268
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 56 | 13 | 14 | 5 | 74 |
-| last60d | 2026-07-24 | 13 | 125 | 37 | 33 | 27 | 114 |
-| 90d | 2026-06-24 | 31 | 248 | 42 | 58 | 41 | 289 |
-| last180d | 2026-03-26 | 42 | 531 | 43 | 153 | 65 | 779 |
-| 360d | 2025-09-27 | 46 | 545 | 43 | 190 | 75 | 1033 |
-| last720d | 2024-10-02 | 46 | 545 | 43 | 190 | 75 | 1264 |
+| 30d | 2026-08-24 | 5 | 60 | 12 | 14 | 6 | 78 |
+| last60d | 2026-07-25 | 12 | 122 | 29 | 32 | 27 | 118 |
+| 90d | 2026-06-25 | 31 | 235 | 36 | 57 | 40 | 293 |
+| last180d | 2026-03-27 | 42 | 535 | 37 | 155 | 62 | 783 |
+| 360d | 2025-09-28 | 46 | 549 | 37 | 194 | 72 | 1037 |
+| last720d | 2024-10-03 | 46 | 549 | 37 | 194 | 72 | 1268 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ last30days-skill 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:22:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:19:40Z._
