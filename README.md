@@ -31,8 +31,8 @@ Overall score: **6.5 / 10**
 Lowest-scoring checks:
 
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 63,056 · **Forks**: 5,487 · **Open issues**: 269 · **Contributors**: 142
+- **Stars**: 63,144 · **Forks**: 5,496 · **Open issues**: 271 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 549 · **Open PRs**: 51 · **Closed issues**: 194 · **Open issues**: 75 · **Commits**: 1268
+- **Releases**: 46 · **Merged PRs**: 549 · **Open PRs**: 56 · **Closed issues**: 194 · **Open issues**: 77 · **Commits**: 1268
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 5 | 52 | 25 | 8 | 7 | 65 |
-| last60d | 2026-07-30 | 9 | 106 | 41 | 28 | 25 | 108 |
-| 90d | 2026-06-30 | 29 | 220 | 48 | 47 | 42 | 263 |
-| last180d | 2026-04-01 | 42 | 532 | 51 | 151 | 63 | 783 |
-| 360d | 2025-10-03 | 46 | 549 | 51 | 194 | 75 | 1037 |
-| last720d | 2024-10-08 | 46 | 549 | 51 | 194 | 75 | 1268 |
+| 30d | 2026-08-30 | 5 | 49 | 30 | 5 | 8 | 65 |
+| last60d | 2026-07-31 | 9 | 105 | 46 | 28 | 26 | 108 |
+| 90d | 2026-07-01 | 29 | 218 | 53 | 47 | 42 | 263 |
+| last180d | 2026-04-02 | 42 | 532 | 56 | 151 | 65 | 783 |
+| 360d | 2025-10-04 | 46 | 549 | 56 | 194 | 77 | 1037 |
+| last720d | 2024-10-09 | 46 | 549 | 56 | 194 | 77 | 1268 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:24:06Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:48:45Z._
