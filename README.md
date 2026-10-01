@@ -14,15 +14,15 @@ x install last30days-skill
 
 ## Code insight
 
-Total: **119,081** lines of code across **396** files in the top 5 languages.
+Total: **120,457** lines of code across **397** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 113,591 | 6,989 | 19,156 | 339 |
+| Python | 114,357 | 7,055 | 19,254 | 340 |
 | JavaScript | 1,923 | 74 | 18 | 11 |
 | Json | 1,577 | 0 | 0 | 29 |
 | Go | 1,418 | 165 | 158 | 11 |
-| Sh | 456 | 86 | 79 | 6 |
+| Html | 651 | 10 | 0 | 6 |
 
 ## OpenSSF Scorecard
 
@@ -41,37 +41,37 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.25.0` (2026-09-18)
-- **Last commit**: 2026-09-29
+- **Latest**: `v3.26.0` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 63,221 · **Forks**: 5,502 · **Open issues**: 273 · **Contributors**: 142
+- **Stars**: 63,294 · **Forks**: 5,508 · **Open issues**: 273 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 551 · **Open PRs**: 57 · **Closed issues**: 194 · **Open issues**: 79 · **Commits**: 1270
+- **Releases**: 47 · **Merged PRs**: 553 · **Open PRs**: 57 · **Closed issues**: 194 · **Open issues**: 79 · **Commits**: 1272
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 5 | 48 | 31 | 5 | 9 | 67 |
-| last60d | 2026-08-01 | 9 | 104 | 47 | 27 | 28 | 110 |
-| 90d | 2026-07-02 | 29 | 218 | 54 | 47 | 44 | 265 |
-| last180d | 2026-04-03 | 42 | 534 | 57 | 149 | 66 | 785 |
-| 360d | 2025-10-05 | 46 | 551 | 57 | 194 | 79 | 1039 |
-| last720d | 2024-10-10 | 46 | 551 | 57 | 194 | 79 | 1270 |
+| 30d | 2026-09-01 | 5 | 43 | 31 | 5 | 9 | 69 |
+| last60d | 2026-08-02 | 10 | 99 | 45 | 27 | 26 | 112 |
+| 90d | 2026-07-03 | 30 | 219 | 54 | 46 | 43 | 267 |
+| last180d | 2026-04-04 | 43 | 536 | 57 | 149 | 66 | 787 |
+| 360d | 2025-10-06 | 47 | 553 | 57 | 194 | 79 | 1041 |
+| last720d | 2024-10-11 | 47 | 553 | 57 | 194 | 79 | 1272 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.25.0/last30days-pp-mcp-darwin-amd64.mcpb) | 5.5 MiB | `native/darwin/x64` |
-| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.25.0/last30days-pp-mcp-darwin-arm64.mcpb) | 5.2 MiB | `native/darwin/arm64` |
-| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.25.0/last30days-pp-mcp-linux-amd64.mcpb) | 5.4 MiB | `native/linux/x64` |
-| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.25.0/last30days.skill) | 14.5 MiB | `other` |
+| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.26.0/last30days-pp-mcp-darwin-amd64.mcpb) | 5.5 MiB | `native/darwin/x64` |
+| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.26.0/last30days-pp-mcp-darwin-arm64.mcpb) | 5.2 MiB | `native/darwin/arm64` |
+| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.26.0/last30days-pp-mcp-linux-amd64.mcpb) | 5.4 MiB | `native/linux/x64` |
+| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.26.0/last30days.skill) | 14.5 MiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:33:48Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:51:08Z._
