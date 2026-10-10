@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/406386943",
-  "assets_url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/406386943/assets",
-  "upload_url": "https://uploads.github.com/repos/mvanhorn/last30days-skill/releases/406386943/assets{?name,label}",
-  "html_url": "https://github.com/mvanhorn/last30days-skill/releases/tag/v3.27.1",
-  "id": 406386943,
+  "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/408424119",
+  "assets_url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/408424119/assets",
+  "upload_url": "https://uploads.github.com/repos/mvanhorn/last30days-skill/releases/408424119/assets{?name,label}",
+  "html_url": "https://github.com/mvanhorn/last30days-skill/releases/tag/v3.27.2",
+  "id": 408424119,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQ__jdM4YOPj_",
-  "tag_name": "v3.27.1",
+  "node_id": "RE_kwDOQ__jdM4YWA63",
+  "tag_name": "v3.27.2",
   "target_commitish": "main",
-  "name": "v3.27.1",
+  "name": "v3.27.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-08T03:38:21Z",
-  "updated_at": "2026-10-08T03:39:36Z",
-  "published_at": "2026-10-08T03:39:14Z",
+  "created_at": "2026-10-09T23:31:30Z",
+  "updated_at": "2026-10-09T23:32:23Z",
+  "published_at": "2026-10-09T23:32:23Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/620621878",
-      "id": 620621878,
-      "node_id": "RA_kwDOQ__jdM4k_fA2",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/626469875",
+      "id": 626469875,
+      "node_id": "RA_kwDOQ__jdM4lVyvz",
       "name": "last30days-pp-mcp-darwin-amd64.mcpb",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 5809683,
-      "digest": "sha256:83dffe123fe5a25b0a8d5f38f31e16f1492727eddd9272104a89ff177bccf85c",
-      "download_count": 14,
-      "created_at": "2026-10-08T03:39:12Z",
-      "updated_at": "2026-10-08T03:39:13Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.1/last30days-pp-mcp-darwin-amd64.mcpb"
+      "size": 5822044,
+      "digest": "sha256:2f4d50e89645e83463fe1a0d00b0b3ef1d6cc3eef55b11bf5aaa89ac5c9d9ed3",
+      "download_count": 3,
+      "created_at": "2026-10-09T23:32:21Z",
+      "updated_at": "2026-10-09T23:32:22Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days-pp-mcp-darwin-amd64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/620621880",
-      "id": 620621880,
-      "node_id": "RA_kwDOQ__jdM4k_fA4",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/626469878",
+      "id": 626469878,
+      "node_id": "RA_kwDOQ__jdM4lVyv2",
       "name": "last30days-pp-mcp-darwin-arm64.mcpb",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 5525169,
-      "digest": "sha256:a1da9efb634574d69d5795aa2e782f4b935431d7acc518bfce95aee665c8875b",
-      "download_count": 9,
-      "created_at": "2026-10-08T03:39:13Z",
-      "updated_at": "2026-10-08T03:39:13Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.1/last30days-pp-mcp-darwin-arm64.mcpb"
+      "size": 5535623,
+      "digest": "sha256:02e4f84a87195d9b0908976eaedcb5fa920dca1d6afc9819fafd22186cf706ed",
+      "download_count": 3,
+      "created_at": "2026-10-09T23:32:21Z",
+      "updated_at": "2026-10-09T23:32:22Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days-pp-mcp-darwin-arm64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/620621881",
-      "id": 620621881,
-      "node_id": "RA_kwDOQ__jdM4k_fA5",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/626469879",
+      "id": 626469879,
+      "node_id": "RA_kwDOQ__jdM4lVyv3",
       "name": "last30days-pp-mcp-linux-amd64.mcpb",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 5680660,
-      "digest": "sha256:08ca64ddadd77f10b1b29b4b1f6a71dc05a1bc57ecc20843ab5521f4bc2cda3e",
-      "download_count": 8,
-      "created_at": "2026-10-08T03:39:13Z",
-      "updated_at": "2026-10-08T03:39:13Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.1/last30days-pp-mcp-linux-amd64.mcpb"
+      "size": 5692989,
+      "digest": "sha256:60a8fc71c4382a03b3fa8bc96254bdf4c1850f7848ac6146e82d4c1ad61f0856",
+      "download_count": 2,
+      "created_at": "2026-10-09T23:32:21Z",
+      "updated_at": "2026-10-09T23:32:22Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days-pp-mcp-linux-amd64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/620621876",
-      "id": 620621876,
-      "node_id": "RA_kwDOQ__jdM4k_fA0",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/626469880",
+      "id": 626469880,
+      "node_id": "RA_kwDOQ__jdM4lVyv4",
       "name": "last30days.skill",
       "label": "",
       "uploader": {
@@ -173,16 +173,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 15270354,
-      "digest": "sha256:61b6142aefb7f1c70df4b252ca16439bbcd5c9c1931e5ad290c0b43610fcea18",
-      "download_count": 77,
-      "created_at": "2026-10-08T03:39:12Z",
-      "updated_at": "2026-10-08T03:39:14Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.1/last30days.skill"
+      "size": 15283402,
+      "digest": "sha256:32eec1db201faab25fad8723865ea51715615953236bf64f7859df9dd72341ac",
+      "download_count": 12,
+      "created_at": "2026-10-09T23:32:21Z",
+      "updated_at": "2026-10-09T23:32:22Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days.skill"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v3.27.1",
-  "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v3.27.1",
-  "body": "## Highlights\n\nPatch for the v3.27.0 Grok Bot native X launch, from a smoke test on Grok Bot. (#1237)\n\n- The month's most-engaged on-topic X posts now reach the report. Host-fetched X holds half its slots for its biggest posts that name the topic, so the popular pass's big posts no longer lose to fresher low-engagement ones. Off-topic viral posts never take those slots, and posts from the handles you name are never pushed out.\n- The footer's X line now says where X came from: \"via Grok Bot X\" or \"via X connector\".\n- The Grok Bot X recipe gives discovered authors only topic-word searches and uses the engine's UTC date for the window.\n\nUpdate: `grok plugin update last30days`, `claude plugin update last30days`, or re-run `npx skills add mvanhorn/last30days-skill -g -y`.\n\n## What's Changed\n* fix(x): keep the month's most-engaged Grok Bot X posts in the report by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1237\n* chore(release): bump version to 3.27.1 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1239\n\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v3.27.0...v3.27.1\n",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v3.27.2",
+  "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v3.27.2",
+  "body": "## What's Changed\n* fix(skill): preserve literal topics on macOS Bash 3.2 by @Tivonsico in https://github.com/mvanhorn/last30days-skill/pull/1240\n* fix(grounding): keep undated keyed-web results instead of dropping the whole response (#928) by @terry-li-hm in https://github.com/mvanhorn/last30days-skill/pull/1038\n* fix(x): sanitize the xurl search query and name invalid-request failures by @clairernovotny in https://github.com/mvanhorn/last30days-skill/pull/1179\n* fix(youtube): report a failed yt-dlp search as an error, not no results by @jayhemnani9910 in https://github.com/mvanhorn/last30days-skill/pull/1195\n* fix(x): show xAI key and model guidance for xAI failures by @Tivonsico in https://github.com/mvanhorn/last30days-skill/pull/1238\n* fix(youtube): request the preferred language from the ScrapeCreators transcript fallback by @jayhemnani9910 in https://github.com/mvanhorn/last30days-skill/pull/1191\n* tests: regression tests for issue #817 — Arabic/non-Latin topics UnicodeEncodeError by @Bhumika-1432006 in https://github.com/mvanhorn/last30days-skill/pull/1234\n* fix(security): guard provider endpoint overrides and loopback proxy routing by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1246\n* fix(planner): enforce host plan gate before live diagnostics by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1244\n* feat: report complete reasoning-provider token usage by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1243\n* fix: contain Windows Bird/X subprocess trees in job objects by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1245\n* fix: classify blocked Reddit discovery listings by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1247\n* fix: backfill thin YouTube search results by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1248\n* fix: report denied X browser cookie access by @iliaal in https://github.com/mvanhorn/last30days-skill/pull/1249\n* fix(skill): stop reports from ending with a trailing Sources list by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1250\n* chore(release): bump version to 3.27.2 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1251\n\n## New Contributors\n* @Tivonsico made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1240\n* @jayhemnani9910 made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1195\n* @Bhumika-1432006 made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1234\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v3.27.1...v3.27.2",
+  "mentions_count": 7
 }
