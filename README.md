@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 63,860 · **Forks**: 5,563 · **Open issues**: 276 · **Contributors**: 150
+- **Stars**: 63,928 · **Forks**: 5,571 · **Open issues**: 276 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 623 · **Open PRs**: 20 · **Closed issues**: 263 · **Open issues**: 13 · **Commits**: 1343
+- **Releases**: 50 · **Merged PRs**: 623 · **Open PRs**: 21 · **Closed issues**: 263 · **Open issues**: 13 · **Commits**: 1343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 5 | 88 | 7 | 12 | 2 | 121 |
-| last60d | 2026-08-11 | 13 | 160 | 11 | 36 | 5 | 174 |
-| 90d | 2026-07-12 | 25 | 237 | 18 | 77 | 7 | 294 |
-| last180d | 2026-04-13 | 45 | 561 | 20 | 196 | 10 | 809 |
-| 360d | 2025-10-15 | 50 | 623 | 20 | 263 | 13 | 1112 |
-| last720d | 2024-10-20 | 50 | 623 | 20 | 263 | 13 | 1343 |
+| 30d | 2026-09-11 | 5 | 86 | 8 | 12 | 2 | 121 |
+| last60d | 2026-08-12 | 13 | 160 | 11 | 34 | 5 | 174 |
+| 90d | 2026-07-13 | 23 | 235 | 19 | 75 | 7 | 294 |
+| last180d | 2026-04-14 | 45 | 559 | 21 | 193 | 10 | 809 |
+| 360d | 2025-10-16 | 50 | 623 | 21 | 263 | 13 | 1112 |
+| last720d | 2024-10-21 | 50 | 623 | 21 | 263 | 13 | 1343 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:52:17Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:37:53Z._
