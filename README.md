@@ -14,11 +14,11 @@ x install last30days-skill
 
 ## Code insight
 
-Total: **137,130** lines of code across **452** files in the top 5 languages.
+Total: **140,077** lines of code across **460** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 129,494 | 7,150 | 21,371 | 385 |
+| Python | 132,441 | 7,367 | 21,936 | 393 |
 | Go | 2,711 | 277 | 245 | 21 |
 | JavaScript | 1,923 | 74 | 18 | 11 |
 | Json | 1,818 | 0 | 0 | 29 |
@@ -26,13 +26,13 @@ Total: **137,130** lines of code across **452** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 10/27 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (1/10) — Found 5/27 approved changesets -- score normalized to 1
 
 ## Source
 
@@ -41,37 +41,37 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.27.2` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Latest**: `v3.28.0` (2026-10-11)
+- **Last commit**: 2026-10-11
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 63,928 · **Forks**: 5,571 · **Open issues**: 276 · **Contributors**: 150
+- **Stars**: 64,004 · **Forks**: 5,582 · **Open issues**: 277 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 623 · **Open PRs**: 21 · **Closed issues**: 263 · **Open issues**: 13 · **Commits**: 1343
+- **Releases**: 52 · **Merged PRs**: 639 · **Open PRs**: 17 · **Closed issues**: 267 · **Open issues**: 10 · **Commits**: 1359
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 5 | 86 | 8 | 12 | 2 | 121 |
-| last60d | 2026-08-12 | 13 | 160 | 11 | 34 | 5 | 174 |
-| 90d | 2026-07-13 | 23 | 235 | 19 | 75 | 7 | 294 |
-| last180d | 2026-04-14 | 45 | 559 | 21 | 193 | 10 | 809 |
-| 360d | 2025-10-16 | 50 | 623 | 21 | 263 | 13 | 1112 |
-| last720d | 2024-10-21 | 50 | 623 | 21 | 263 | 13 | 1343 |
+| 30d | 2026-09-12 | 7 | 100 | 10 | 13 | 2 | 99 |
+| last60d | 2026-08-13 | 15 | 175 | 10 | 32 | 4 | 176 |
+| 90d | 2026-07-14 | 23 | 250 | 15 | 75 | 7 | 272 |
+| last180d | 2026-04-15 | 46 | 565 | 17 | 183 | 9 | 781 |
+| 360d | 2025-10-17 | 52 | 639 | 17 | 267 | 10 | 1128 |
+| last720d | 2024-10-22 | 52 | 639 | 17 | 267 | 10 | 1359 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days-pp-mcp-darwin-amd64.mcpb) | 5.6 MiB | `native/darwin/x64` |
-| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days-pp-mcp-darwin-arm64.mcpb) | 5.3 MiB | `native/darwin/arm64` |
-| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days-pp-mcp-linux-amd64.mcpb) | 5.4 MiB | `native/linux/x64` |
-| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.27.2/last30days.skill) | 14.6 MiB | `other` |
+| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days-pp-mcp-darwin-amd64.mcpb) | 5.6 MiB | `native/darwin/x64` |
+| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days-pp-mcp-darwin-arm64.mcpb) | 5.3 MiB | `native/darwin/arm64` |
+| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days-pp-mcp-linux-amd64.mcpb) | 5.4 MiB | `native/linux/x64` |
+| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days.skill) | 14.6 MiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:37:53Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:18:38Z._
