@@ -30,8 +30,8 @@ Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
 - **Code-Review** (1/10) — Found 5/27 approved changesets -- score normalized to 1
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 64,004 · **Forks**: 5,582 · **Open issues**: 277 · **Contributors**: 150
+- **Stars**: 64,118 · **Forks**: 5,592 · **Open issues**: 277 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 639 · **Open PRs**: 17 · **Closed issues**: 267 · **Open issues**: 10 · **Commits**: 1359
+- **Releases**: 52 · **Merged PRs**: 639 · **Open PRs**: 21 · **Closed issues**: 267 · **Open issues**: 10 · **Commits**: 1359
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 7 | 100 | 10 | 13 | 2 | 99 |
-| last60d | 2026-08-13 | 15 | 175 | 10 | 32 | 4 | 176 |
-| 90d | 2026-07-14 | 23 | 250 | 15 | 75 | 7 | 272 |
-| last180d | 2026-04-15 | 46 | 565 | 17 | 183 | 9 | 781 |
-| 360d | 2025-10-17 | 52 | 639 | 17 | 267 | 10 | 1128 |
-| last720d | 2024-10-22 | 52 | 639 | 17 | 267 | 10 | 1359 |
+| 30d | 2026-09-13 | 7 | 97 | 14 | 12 | 2 | 99 |
+| last60d | 2026-08-14 | 15 | 164 | 14 | 31 | 4 | 176 |
+| 90d | 2026-07-15 | 23 | 247 | 19 | 73 | 7 | 272 |
+| last180d | 2026-04-16 | 42 | 564 | 21 | 183 | 9 | 781 |
+| 360d | 2025-10-18 | 52 | 639 | 21 | 267 | 10 | 1128 |
+| last720d | 2024-10-23 | 52 | 639 | 21 | 267 | 10 | 1359 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:18:38Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:07:39Z._
