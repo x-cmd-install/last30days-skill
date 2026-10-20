@@ -30,8 +30,8 @@ Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 64,683 · **Forks**: 5,646 · **Open issues**: 281 · **Contributors**: 159
+- **Stars**: 64,802 · **Forks**: 5,660 · **Open issues**: 283 · **Contributors**: 159
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 656 · **Open PRs**: 18 · **Closed issues**: 273 · **Open issues**: 8 · **Commits**: 1375
+- **Releases**: 52 · **Merged PRs**: 656 · **Open PRs**: 20 · **Closed issues**: 273 · **Open issues**: 10 · **Commits**: 1375
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 6 | 105 | 15 | 15 | 2 | 107 |
-| last60d | 2026-08-20 | 11 | 171 | 15 | 33 | 3 | 186 |
-| 90d | 2026-07-21 | 21 | 244 | 18 | 77 | 6 | 228 |
-| last180d | 2026-04-22 | 41 | 563 | 18 | 184 | 8 | 772 |
-| 360d | 2025-10-24 | 52 | 656 | 18 | 273 | 8 | 1144 |
-| last720d | 2024-10-29 | 52 | 656 | 18 | 273 | 8 | 1375 |
+| 30d | 2026-09-20 | 6 | 102 | 17 | 15 | 4 | 107 |
+| last60d | 2026-08-21 | 11 | 170 | 17 | 33 | 5 | 186 |
+| 90d | 2026-07-22 | 19 | 244 | 20 | 77 | 8 | 228 |
+| last180d | 2026-04-23 | 41 | 559 | 20 | 183 | 10 | 772 |
+| 360d | 2025-10-25 | 52 | 656 | 20 | 273 | 10 | 1144 |
+| last720d | 2024-10-30 | 52 | 656 | 20 | 273 | 10 | 1375 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:49:31Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:51:12Z._
