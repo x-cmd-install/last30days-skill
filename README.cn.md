@@ -14,11 +14,11 @@ x install last30days-skill
 
 ## 代码洞察
 
-合计: **141,757** 行代码（覆盖前 5 种语言、共 **462** 个文件）。
+合计: **141,837** 行代码（覆盖前 5 种语言、共 **463** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 133,398 | 7,415 | 22,109 | 393 |
+| Python | 133,478 | 7,416 | 22,124 | 394 |
 | Go | 3,054 | 278 | 267 | 23 |
 | Json | 2,198 | 0 | 0 | 29 |
 | JavaScript | 1,923 | 74 | 18 | 11 |
@@ -26,13 +26,13 @@ x install last30days-skill
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.8 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -41,37 +41,37 @@ x install last30days-skill
 
 ## 发布
 
-- **最新版本**: `v3.28.0` (2026-10-11)
-- **最近提交**: 2026-10-18
+- **最新版本**: `v3.28.1` (2026-10-20)
+- **最近提交**: 2026-10-20
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 64,802 · **Fork**: 5,660 · **开放 issue**: 283 · **贡献者**: 159
+- **Star**: 64,903 · **Fork**: 5,648 · **开放 issue**: 283 · **贡献者**: 159
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 656 · **开放 PR**: 20 · **已关闭 issue**: 273 · **开放 issue**: 10 · **提交数**: 1375
+- **发布数**: 53 · **已合并 PR**: 666 · **开放 PR**: 14 · **已关闭 issue**: 273 · **开放 issue**: 10 · **提交数**: 1385
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 6 | 102 | 17 | 15 | 4 | 107 |
-| last60d | 2026-08-21 | 11 | 170 | 17 | 33 | 5 | 186 |
-| 90d | 2026-07-22 | 19 | 244 | 20 | 77 | 8 | 228 |
-| last180d | 2026-04-23 | 41 | 559 | 20 | 183 | 10 | 772 |
-| 360d | 2025-10-25 | 52 | 656 | 20 | 273 | 10 | 1144 |
-| last720d | 2024-10-30 | 52 | 656 | 20 | 273 | 10 | 1375 |
+| 30d | 2026-09-21 | 7 | 111 | 11 | 14 | 4 | 117 |
+| last60d | 2026-08-22 | 12 | 177 | 11 | 33 | 5 | 196 |
+| 90d | 2026-07-23 | 20 | 252 | 14 | 77 | 7 | 238 |
+| last180d | 2026-04-24 | 41 | 566 | 14 | 181 | 10 | 782 |
+| 360d | 2025-10-26 | 53 | 666 | 14 | 273 | 10 | 1154 |
+| last720d | 2024-10-31 | 53 | 666 | 14 | 273 | 10 | 1385 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days-pp-mcp-darwin-amd64.mcpb) | 5.6 MiB | `native/darwin/x64` |
-| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days-pp-mcp-darwin-arm64.mcpb) | 5.3 MiB | `native/darwin/arm64` |
-| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days-pp-mcp-linux-amd64.mcpb) | 5.4 MiB | `native/linux/x64` |
-| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.0/last30days.skill) | 14.6 MiB | `other` |
+| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days-pp-mcp-darwin-amd64.mcpb) | 5.6 MiB | `native/darwin/x64` |
+| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days-pp-mcp-darwin-arm64.mcpb) | 5.3 MiB | `native/darwin/arm64` |
+| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days-pp-mcp-linux-amd64.mcpb) | 5.5 MiB | `native/linux/x64` |
+| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days.skill) | 14.6 MiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ last30days-skill 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:51:13Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:41:34Z._
