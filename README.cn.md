@@ -14,25 +14,25 @@ x install last30days-skill
 
 ## 代码洞察
 
-合计: **143,040** 行代码（覆盖前 5 种语言、共 **464** 个文件）。
+合计: **145,891** 行代码（覆盖前 5 种语言、共 **474** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 134,681 | 7,434 | 22,268 | 395 |
-| Go | 3,054 | 278 | 267 | 23 |
+| Python | 137,459 | 7,486 | 22,741 | 405 |
+| Go | 3,116 | 278 | 269 | 23 |
 | Json | 2,198 | 0 | 0 | 29 |
 | JavaScript | 1,923 | 74 | 18 | 11 |
 | Html | 651 | 10 | 0 | 6 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.8 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -41,37 +41,37 @@ x install last30days-skill
 
 ## 发布
 
-- **最新版本**: `v3.28.1` (2026-10-20)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v3.30.0` (2026-10-22)
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 65,026 · **Fork**: 5,647 · **开放 issue**: 288 · **贡献者**: 161
+- **Star**: 65,149 · **Fork**: 5,650 · **开放 issue**: 288 · **贡献者**: 161
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 673 · **开放 PR**: 10 · **已关闭 issue**: 276 · **开放 issue**: 12 · **提交数**: 1392
+- **发布数**: 55 · **已合并 PR**: 679 · **开放 PR**: 12 · **已关闭 issue**: 280 · **开放 issue**: 8 · **提交数**: 1398
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 7 | 113 | 7 | 15 | 7 | 124 |
-| last60d | 2026-08-23 | 12 | 182 | 7 | 34 | 8 | 203 |
-| 90d | 2026-07-24 | 20 | 253 | 10 | 74 | 9 | 245 |
-| last180d | 2026-04-25 | 41 | 571 | 10 | 184 | 12 | 789 |
-| 360d | 2025-10-27 | 53 | 673 | 10 | 276 | 12 | 1161 |
-| last720d | 2024-11-01 | 53 | 673 | 10 | 276 | 12 | 1392 |
+| 30d | 2026-09-23 | 9 | 111 | 9 | 17 | 3 | 130 |
+| last60d | 2026-08-24 | 14 | 188 | 9 | 38 | 4 | 209 |
+| 90d | 2026-07-25 | 21 | 252 | 12 | 76 | 5 | 251 |
+| last180d | 2026-04-26 | 43 | 576 | 12 | 187 | 8 | 795 |
+| 360d | 2025-10-28 | 55 | 679 | 12 | 280 | 8 | 1167 |
+| last720d | 2024-11-02 | 55 | 679 | 12 | 280 | 8 | 1398 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days-pp-mcp-darwin-amd64.mcpb) | 5.6 MiB | `native/darwin/x64` |
-| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days-pp-mcp-darwin-arm64.mcpb) | 5.3 MiB | `native/darwin/arm64` |
-| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days-pp-mcp-linux-amd64.mcpb) | 5.5 MiB | `native/linux/x64` |
-| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.28.1/last30days.skill) | 14.6 MiB | `other` |
+| [last30days-pp-mcp-darwin-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.30.0/last30days-pp-mcp-darwin-amd64.mcpb) | 5.6 MiB | `native/darwin/x64` |
+| [last30days-pp-mcp-darwin-arm64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.30.0/last30days-pp-mcp-darwin-arm64.mcpb) | 5.3 MiB | `native/darwin/arm64` |
+| [last30days-pp-mcp-linux-amd64.mcpb](https://github.com/mvanhorn/last30days-skill/releases/download/v3.30.0/last30days-pp-mcp-linux-amd64.mcpb) | 5.5 MiB | `native/linux/x64` |
+| [last30days.skill](https://github.com/mvanhorn/last30days-skill/releases/download/v3.30.0/last30days.skill) | 14.6 MiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ last30days-skill 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:39:33Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:54:43Z._
