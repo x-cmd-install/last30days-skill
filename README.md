@@ -14,11 +14,11 @@ x install last30days-skill
 
 ## Code insight
 
-Total: **148,772** lines of code across **482** files in the top 5 languages.
+Total: **148,788** lines of code across **482** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 140,339 | 7,548 | 23,245 | 413 |
+| Python | 140,355 | 7,547 | 23,249 | 413 |
 | Go | 3,116 | 278 | 269 | 23 |
 | Json | 2,198 | 0 | 0 | 29 |
 | JavaScript | 1,923 | 74 | 18 | 11 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 65,611 · **Forks**: 5,703 · **Open issues**: 289 · **Contributors**: 167
+- **Stars**: 65,718 · **Forks**: 5,717 · **Open issues**: 289 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 701 · **Open PRs**: 6 · **Closed issues**: 282 · **Open issues**: 7 · **Commits**: 1420
+- **Releases**: 56 · **Merged PRs**: 702 · **Open PRs**: 7 · **Closed issues**: 281 · **Open issues**: 8 · **Commits**: 1421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 10 | 129 | 6 | 18 | 2 | 148 |
-| last60d | 2026-08-28 | 15 | 202 | 6 | 32 | 3 | 218 |
-| 90d | 2026-07-29 | 19 | 262 | 6 | 69 | 4 | 260 |
-| last180d | 2026-04-30 | 44 | 594 | 6 | 186 | 7 | 807 |
-| 360d | 2025-11-01 | 56 | 701 | 6 | 282 | 7 | 1189 |
-| last720d | 2024-11-06 | 56 | 701 | 6 | 282 | 7 | 1420 |
+| 30d | 2026-09-28 | 10 | 128 | 6 | 16 | 3 | 149 |
+| last60d | 2026-08-29 | 15 | 201 | 7 | 32 | 4 | 219 |
+| 90d | 2026-07-30 | 19 | 259 | 7 | 69 | 5 | 261 |
+| last180d | 2026-05-01 | 44 | 595 | 7 | 185 | 8 | 808 |
+| 360d | 2025-11-02 | 56 | 702 | 7 | 281 | 8 | 1190 |
+| last720d | 2024-11-07 | 56 | 702 | 7 | 281 | 8 | 1421 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:09:05Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:40:06Z._
