@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6080824,
       "digest": "sha256:57d027d522b04c8f44a0eb183cc082e9bd29ff53aa10f4116f61031ff5165704",
-      "download_count": 5,
+      "download_count": 18,
       "created_at": "2026-11-13T23:03:30Z",
       "updated_at": "2026-11-13T23:03:31Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.39.0/last30days-pp-mcp-darwin-amd64.mcpb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5791521,
       "digest": "sha256:2cd2cf27de8aa428d67e482f9e4d11ba93142bd8b0567e8d6335c7c8f6c935ef",
-      "download_count": 3,
+      "download_count": 15,
       "created_at": "2026-11-13T23:03:30Z",
       "updated_at": "2026-11-13T23:03:31Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.39.0/last30days-pp-mcp-darwin-arm64.mcpb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5944279,
       "digest": "sha256:430a69f70b0deeebc2fc6b165e61b8b250b095cd76afe62e328f1c9e43bd6291",
-      "download_count": 2,
+      "download_count": 10,
       "created_at": "2026-11-13T23:03:30Z",
       "updated_at": "2026-11-13T23:03:31Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.39.0/last30days-pp-mcp-linux-amd64.mcpb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15472914,
       "digest": "sha256:81eb841a22d666a0e561a0b93da04ddedf1b3f786a8775db303de8e4d57099f9",
-      "download_count": 44,
+      "download_count": 129,
       "created_at": "2026-11-13T23:03:30Z",
       "updated_at": "2026-11-13T23:03:31Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v3.39.0/last30days.skill"
