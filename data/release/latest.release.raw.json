@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/447784432",
-  "assets_url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/447784432/assets",
-  "upload_url": "https://uploads.github.com/repos/mvanhorn/last30days-skill/releases/447784432/assets{?name,label}",
-  "html_url": "https://github.com/mvanhorn/last30days-skill/releases/tag/v4.3.0",
-  "id": 447784432,
+  "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/448861603",
+  "assets_url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/448861603/assets",
+  "upload_url": "https://uploads.github.com/repos/mvanhorn/last30days-skill/releases/448861603/assets{?name,label}",
+  "html_url": "https://github.com/mvanhorn/last30days-skill/releases/tag/v4.3.2",
+  "id": 448861603,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQ__jdM4asKXw",
-  "tag_name": "v4.3.0",
+  "node_id": "RE_kwDOQ__jdM4awRWj",
+  "tag_name": "v4.3.2",
   "target_commitish": "main",
-  "name": "v4.3.0",
+  "name": "v4.3.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-16T23:56:24Z",
-  "updated_at": "2026-11-16T23:57:17Z",
-  "published_at": "2026-11-16T23:57:17Z",
+  "created_at": "2026-11-17T15:55:53Z",
+  "updated_at": "2026-11-17T15:56:44Z",
+  "published_at": "2026-11-17T15:56:44Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/756926686",
-      "id": 756926686,
-      "node_id": "RA_kwDOQ__jdM4tHcje",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/759675878",
+      "id": 759675878,
+      "node_id": "RA_kwDOQ__jdM4tR7vm",
       "name": "last30days-pp-mcp-darwin-amd64.mcpb",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 6209074,
-      "digest": "sha256:47e075b1c28fa66f47f68f1b18191850c16bde65573a39a3c2055528c1792b44",
-      "download_count": 13,
-      "created_at": "2026-11-16T23:57:15Z",
-      "updated_at": "2026-11-16T23:57:16Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.0/last30days-pp-mcp-darwin-amd64.mcpb"
+      "size": 6212717,
+      "digest": "sha256:7e7a15a4e60d4f671353c5a594b7c67a6284880288fcd73a367e4f2c3ab95ffb",
+      "download_count": 172,
+      "created_at": "2026-11-17T15:56:43Z",
+      "updated_at": "2026-11-17T15:56:43Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.2/last30days-pp-mcp-darwin-amd64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/756926678",
-      "id": 756926678,
-      "node_id": "RA_kwDOQ__jdM4tHcjW",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/759675870",
+      "id": 759675870,
+      "node_id": "RA_kwDOQ__jdM4tR7ve",
       "name": "last30days-pp-mcp-darwin-arm64.mcpb",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 5923461,
-      "digest": "sha256:f2e4c4547e3af7219ade11e8bf230f3d372316aa7bb8555534cbca0d9b8c6eff",
-      "download_count": 10,
-      "created_at": "2026-11-16T23:57:15Z",
-      "updated_at": "2026-11-16T23:57:16Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.0/last30days-pp-mcp-darwin-arm64.mcpb"
+      "size": 5926785,
+      "digest": "sha256:b4094aaf2a2af25a69aba0914db41166788cf6fd5a7cbf9caf768d05ffaed2ec",
+      "download_count": 47,
+      "created_at": "2026-11-17T15:56:43Z",
+      "updated_at": "2026-11-17T15:56:43Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.2/last30days-pp-mcp-darwin-arm64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/756926677",
-      "id": 756926677,
-      "node_id": "RA_kwDOQ__jdM4tHcjV",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/759675873",
+      "id": 759675873,
+      "node_id": "RA_kwDOQ__jdM4tR7vh",
       "name": "last30days-pp-mcp-linux-amd64.mcpb",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 6072647,
-      "digest": "sha256:22c72aa17df990d90bfd28ba11d4babfe81346010d61ea3fbc14bfc378e97f3a",
-      "download_count": 6,
-      "created_at": "2026-11-16T23:57:15Z",
-      "updated_at": "2026-11-16T23:57:15Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.0/last30days-pp-mcp-linux-amd64.mcpb"
+      "size": 6078308,
+      "digest": "sha256:5c2af9be562bfbf82758ec416a33558a1fc45485fccc3f9ed6f17d330a724707",
+      "download_count": 27,
+      "created_at": "2026-11-17T15:56:43Z",
+      "updated_at": "2026-11-17T15:56:43Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.2/last30days-pp-mcp-linux-amd64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/756926680",
-      "id": 756926680,
-      "node_id": "RA_kwDOQ__jdM4tHcjY",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/759675869",
+      "id": 759675869,
+      "node_id": "RA_kwDOQ__jdM4tR7vd",
       "name": "last30days.skill",
       "label": "",
       "uploader": {
@@ -173,16 +173,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 15626385,
-      "digest": "sha256:474f778402b6fc58879b8d3edbc4ff1c61bb9fc027ccbbe028e88449aeff1094",
-      "download_count": 128,
-      "created_at": "2026-11-16T23:57:15Z",
-      "updated_at": "2026-11-16T23:57:16Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.0/last30days.skill"
+      "size": 15631804,
+      "digest": "sha256:c49efe575709e5d7e720afb7a6272f83d83b463102fdd6147d1fc0f359bf9f0c",
+      "download_count": 422,
+      "created_at": "2026-11-17T15:56:43Z",
+      "updated_at": "2026-11-17T15:56:44Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.3.2/last30days.skill"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v4.3.0",
-  "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v4.3.0",
-  "body": "## What's Changed\n* feat(polymarket): lead entity topics with their most interesting markets by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1487\n* fix(polymarket): match descriptive topics across simple plurals by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1492\n* fix(polymarket): report partial searches and bound them by the stream deadline by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1493\n* test(planner): pin drill plans keeping polymarket_hints; share one hint cap by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1494\n* fix(jobs): find secret job signals on company runs by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1491\n* chore(release): bump version to 4.3.0 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1496\n\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v4.2.1...v4.3.0",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v4.3.2",
+  "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v4.3.2",
+  "body": "## What's Changed\n* docs: add Persian (Farsi) README translation by @abbasi0abolfazl in https://github.com/mvanhorn/last30days-skill/pull/1503\n* fix: explain missing X browser cookies by @qq2514568380 in https://github.com/mvanhorn/last30days-skill/pull/1499\n* fix: report Reddit archive as partial when discovery fails by @qq2514568380 in https://github.com/mvanhorn/last30days-skill/pull/1500\n* fix(doctor): stop prescribing a transcription key that does nothing by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1507\n* fix(windows): resolve Printing Press CLIs from the managed bin dir by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1508\n* feat(exa): highlights, official-site fallback, and company competitor search by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1509\n* chore(release): bump version to 4.3.2 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1510\n\n## New Contributors\n* @abbasi0abolfazl made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1503\n* @qq2514568380 made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1499\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v4.3.1...v4.3.2",
+  "mentions_count": 3
 }
