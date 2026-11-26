@@ -14,11 +14,11 @@ x install last30days-skill
 
 ## Code insight
 
-Total: **314,433** lines of code across **711** files in the top 5 languages.
+Total: **314,957** lines of code across **713** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 261,637 | 12,234 | 42,334 | 588 |
+| Python | 262,161 | 12,256 | 42,402 | 590 |
 | Json | 41,018 | 0 | 0 | 62 |
 | Go | 6,362 | 432 | 533 | 36 |
 | JavaScript | 3,199 | 79 | 43 | 12 |
@@ -30,8 +30,8 @@ Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 3/29 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.6.0` (2026-11-22)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 74,612 · **Forks**: 6,577 · **Open issues**: 314 · **Contributors**: 190
+- **Stars**: 75,404 · **Forks**: 6,652 · **Open issues**: 317 · **Contributors**: 193
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 908 · **Open PRs**: 17 · **Closed issues**: 304 · **Open issues**: 10 · **Commits**: 1632
+- **Releases**: 86 · **Merged PRs**: 913 · **Open PRs**: 21 · **Closed issues**: 306 · **Open issues**: 11 · **Commits**: 1637
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 31 | 215 | 12 | 21 | 6 | 209 |
-| last60d | 2026-09-26 | 40 | 340 | 17 | 41 | 7 | 361 |
-| 90d | 2026-08-27 | 45 | 412 | 17 | 56 | 7 | 441 |
-| last180d | 2026-05-29 | 72 | 727 | 17 | 187 | 10 | 876 |
-| 360d | 2025-11-30 | 86 | 908 | 17 | 304 | 10 | 1399 |
-| last720d | 2024-12-05 | 86 | 908 | 17 | 304 | 10 | 1632 |
+| 30d | 2026-10-27 | 31 | 213 | 16 | 22 | 7 | 214 |
+| last60d | 2026-09-27 | 40 | 344 | 21 | 42 | 8 | 366 |
+| 90d | 2026-08-28 | 45 | 415 | 21 | 57 | 8 | 446 |
+| last180d | 2026-05-30 | 72 | 730 | 21 | 188 | 11 | 881 |
+| 360d | 2025-12-01 | 86 | 913 | 21 | 306 | 11 | 1404 |
+| last720d | 2024-12-06 | 86 | 913 | 21 | 306 | 11 | 1637 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for last30days-skill lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:11:40Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:16:48Z._
