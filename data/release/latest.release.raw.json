@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6298502,
       "digest": "sha256:1c10fae0b0dabe558361d9fa552eeec3469bd941bb916c0607c534bdc564f12e",
-      "download_count": 104,
+      "download_count": 136,
       "created_at": "2026-11-22T04:31:35Z",
       "updated_at": "2026-11-22T04:31:35Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.6.0/last30days-pp-mcp-darwin-amd64.mcpb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6016835,
       "digest": "sha256:c6d427d8b8f80dbe5d16f0d94ed3c2564bd2ad5d3c945566cf893cf310179e42",
-      "download_count": 90,
+      "download_count": 116,
       "created_at": "2026-11-22T04:31:35Z",
       "updated_at": "2026-11-22T04:31:35Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.6.0/last30days-pp-mcp-darwin-arm64.mcpb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6162534,
       "digest": "sha256:965d38f35126e91a327b5d647a7d161ade7399bbdb724343c369f15b78a9bb61",
-      "download_count": 67,
+      "download_count": 83,
       "created_at": "2026-11-22T04:31:35Z",
       "updated_at": "2026-11-22T04:31:35Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.6.0/last30days-pp-mcp-linux-amd64.mcpb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1382796,
       "digest": "sha256:379d362b17a30fa475a2f3501c999e1884494d6e4def45ea94f0a4e6a45bb0db",
-      "download_count": 879,
+      "download_count": 1203,
       "created_at": "2026-11-22T04:31:35Z",
       "updated_at": "2026-11-22T04:31:35Z",
       "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.6.0/last30days.skill"
@@ -184,5 +184,17 @@
   "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v4.6.0",
   "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v4.6.0",
   "body": "## What's Changed\n* fix(comments): spend TikTok and Instagram comment calls on posts the report keeps by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1554\n* feat(tiktok): free top comments for every kept TikTok from the public comment endpoint by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1555\n* feat(library): silent multi-harness finished-brief capture and offline transcript harvest by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1556\n* feat(shortform): keyless TikTok/Instagram fallback via web discovery + yt-dlp by @grain-lu in https://github.com/mvanhorn/last30days-skill/pull/1533\n* chore(release): bump version to 4.6.0 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1559\n\n## New Contributors\n* @grain-lu made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1533\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v4.5.0...v4.6.0",
+  "reactions": {
+    "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/454201897/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
