@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/460169483",
-  "assets_url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/460169483/assets",
-  "upload_url": "https://uploads.github.com/repos/mvanhorn/last30days-skill/releases/460169483/assets{?name,label}",
-  "html_url": "https://github.com/mvanhorn/last30days-skill/releases/tag/v4.8.0",
-  "id": 460169483,
+  "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/461384147",
+  "assets_url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/461384147/assets",
+  "upload_url": "https://uploads.github.com/repos/mvanhorn/last30days-skill/releases/461384147/assets{?name,label}",
+  "html_url": "https://github.com/mvanhorn/last30days-skill/releases/tag/v4.8.1",
+  "id": 461384147,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQ__jdM4bbaEL",
-  "tag_name": "v4.8.0",
+  "node_id": "RE_kwDOQ__jdM4bgCnT",
+  "tag_name": "v4.8.1",
   "target_commitish": "main",
-  "name": "v4.8.0",
+  "name": "v4.8.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-27T04:06:53Z",
-  "updated_at": "2026-11-27T04:32:24Z",
-  "published_at": "2026-11-27T04:32:24Z",
+  "created_at": "2026-11-28T07:31:46Z",
+  "updated_at": "2026-11-28T07:33:36Z",
+  "published_at": "2026-11-28T07:33:36Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975175",
-      "id": 798975175,
-      "node_id": "RA_kwDOQ__jdM4vn2TH",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681359",
+      "id": 803681359,
+      "node_id": "RA_kwDOQ__jdM4v5zRP",
       "name": "last30days-core-darwin-amd64",
       "label": "",
       "uploader": {
@@ -67,15 +67,15 @@
       "state": "uploaded",
       "size": 2261544,
       "digest": "sha256:8880fed4ebb8375f022dc6593acf18e663d5d89c0c88de7805a76272ba4a87b1",
-      "download_count": 8,
-      "created_at": "2026-11-27T04:32:23Z",
-      "updated_at": "2026-11-27T04:32:24Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-core-darwin-amd64"
+      "download_count": 4,
+      "created_at": "2026-11-28T07:33:35Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-core-darwin-amd64"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975179",
-      "id": 798975179,
-      "node_id": "RA_kwDOQ__jdM4vn2TL",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681368",
+      "id": 803681368,
+      "node_id": "RA_kwDOQ__jdM4v5zRY",
       "name": "last30days-core-darwin-arm64",
       "label": "",
       "uploader": {
@@ -103,15 +103,15 @@
       "state": "uploaded",
       "size": 2128832,
       "digest": "sha256:d9842a931e621175ea026948a6284c04978d9a73ac8c0fffc245bd57a8f21c0e",
-      "download_count": 120,
-      "created_at": "2026-11-27T04:32:23Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-core-darwin-arm64"
+      "download_count": 43,
+      "created_at": "2026-11-28T07:33:35Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-core-darwin-arm64"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975189",
-      "id": 798975189,
-      "node_id": "RA_kwDOQ__jdM4vn2TV",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681374",
+      "id": 803681374,
+      "node_id": "RA_kwDOQ__jdM4v5zRe",
       "name": "last30days-core-linux-amd64",
       "label": "",
       "uploader": {
@@ -139,15 +139,15 @@
       "state": "uploaded",
       "size": 2660368,
       "digest": "sha256:9e7b6a81ec4d479e8b0200aadfdc8307f8946e1a8dba77ff056bd22d3be4ff56",
-      "download_count": 220,
-      "created_at": "2026-11-27T04:32:23Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-core-linux-amd64"
+      "download_count": 61,
+      "created_at": "2026-11-28T07:33:35Z",
+      "updated_at": "2026-11-28T07:33:36Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-core-linux-amd64"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975196",
-      "id": 798975196,
-      "node_id": "RA_kwDOQ__jdM4vn2Tc",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681381",
+      "id": 803681381,
+      "node_id": "RA_kwDOQ__jdM4v5zRl",
       "name": "last30days-core-linux-arm64",
       "label": "",
       "uploader": {
@@ -175,15 +175,15 @@
       "state": "uploaded",
       "size": 2168272,
       "digest": "sha256:3f568630ac1be7fa2fd502e1eb4b5ec6e1e8cb2446dbf57e59e9e4a73bb8f735",
-      "download_count": 11,
-      "created_at": "2026-11-27T04:32:23Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-core-linux-arm64"
+      "download_count": 4,
+      "created_at": "2026-11-28T07:33:35Z",
+      "updated_at": "2026-11-28T07:33:36Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-core-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975150",
-      "id": 798975150,
-      "node_id": "RA_kwDOQ__jdM4vn2Su",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681343",
+      "id": 803681343,
+      "node_id": "RA_kwDOQ__jdM4v5zQ_",
       "name": "last30days-core-SHA256SUMS.txt",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 478,
-      "digest": "sha256:4e4feb446674c806275457e63eda9e3a120fb598d03c3235525740f4387fa0b1",
-      "download_count": 517,
-      "created_at": "2026-11-27T04:32:22Z",
-      "updated_at": "2026-11-27T04:32:22Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-core-SHA256SUMS.txt"
+      "digest": "sha256:6b9de5825fa5f10d1f3c185cd57e5d20fb80ccdc6e9b9d9eab4ff90c2d37e3e4",
+      "download_count": 146,
+      "created_at": "2026-11-28T07:33:34Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-core-SHA256SUMS.txt"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975207",
-      "id": 798975207,
-      "node_id": "RA_kwDOQ__jdM4vn2Tn",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681383",
+      "id": 803681383,
+      "node_id": "RA_kwDOQ__jdM4v5zRn",
       "name": "last30days-core-windows-amd64.exe",
       "label": "",
       "uploader": {
@@ -246,16 +246,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 2426368,
-      "digest": "sha256:71e3deee1c6cc87c8bd8afff142b081f3a19122a8d9f2049ef4cef9dd15fd632",
-      "download_count": 176,
-      "created_at": "2026-11-27T04:32:23Z",
-      "updated_at": "2026-11-27T04:32:24Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-core-windows-amd64.exe"
+      "digest": "sha256:e3aba451fda780be3f691e5d74048f6f86a5def0886ff5096d029393162b80fd",
+      "download_count": 45,
+      "created_at": "2026-11-28T07:33:35Z",
+      "updated_at": "2026-11-28T07:33:36Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-core-windows-amd64.exe"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975147",
-      "id": 798975147,
-      "node_id": "RA_kwDOQ__jdM4vn2Sr",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681345",
+      "id": 803681345,
+      "node_id": "RA_kwDOQ__jdM4v5zRB",
       "name": "last30days-pp-mcp-darwin-amd64.mcpb",
       "label": "",
       "uploader": {
@@ -281,17 +281,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 6581293,
-      "digest": "sha256:a918bcfde80e03470d9497cf7eca9f46014c724a6a62d2ff6edde280db588288",
-      "download_count": 6,
-      "created_at": "2026-11-27T04:32:22Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-pp-mcp-darwin-amd64.mcpb"
+      "size": 6583017,
+      "digest": "sha256:5716409f8a99e2f45b7e3b3eeac60a1f1ed5c86acf9aea5e783d37b649c73710",
+      "download_count": 2,
+      "created_at": "2026-11-28T07:33:34Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-pp-mcp-darwin-amd64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975146",
-      "id": 798975146,
-      "node_id": "RA_kwDOQ__jdM4vn2Sq",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681335",
+      "id": 803681335,
+      "node_id": "RA_kwDOQ__jdM4v5zQ3",
       "name": "last30days-pp-mcp-darwin-arm64.mcpb",
       "label": "",
       "uploader": {
@@ -317,17 +317,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 6301867,
-      "digest": "sha256:f5510b61001f54db5b8bb752aecfd25579ad4f8ef66f39a5b015de5b26d99472",
-      "download_count": 6,
-      "created_at": "2026-11-27T04:32:22Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-pp-mcp-darwin-arm64.mcpb"
+      "size": 6303040,
+      "digest": "sha256:96bcd7417723556e1f014ca75d8ab1d7fbcb2ae7b0a112c87879a1d8e6b17616",
+      "download_count": 3,
+      "created_at": "2026-11-28T07:33:34Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-pp-mcp-darwin-arm64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975144",
-      "id": 798975144,
-      "node_id": "RA_kwDOQ__jdM4vn2So",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681334",
+      "id": 803681334,
+      "node_id": "RA_kwDOQ__jdM4v5zQ2",
       "name": "last30days-pp-mcp-linux-amd64.mcpb",
       "label": "",
       "uploader": {
@@ -353,17 +353,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 6441847,
-      "digest": "sha256:e6e316f102c6ed7fe175c9481865f630d78f0f1f578a9c266a62c68e43ebe316",
-      "download_count": 5,
-      "created_at": "2026-11-27T04:32:22Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days-pp-mcp-linux-amd64.mcpb"
+      "size": 6442133,
+      "digest": "sha256:916367aa0caf591eea191270b55b897fb6fa1a5d5427d8a41eb385df74ddac34",
+      "download_count": 2,
+      "created_at": "2026-11-28T07:33:34Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days-pp-mcp-linux-amd64.mcpb"
     },
     {
-      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/798975143",
-      "id": 798975143,
-      "node_id": "RA_kwDOQ__jdM4vn2Sn",
+      "url": "https://api.github.com/repos/mvanhorn/last30days-skill/releases/assets/803681338",
+      "id": 803681338,
+      "node_id": "RA_kwDOQ__jdM4v5zQ6",
       "name": "last30days.skill",
       "label": "",
       "uploader": {
@@ -389,16 +389,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1593345,
-      "digest": "sha256:cca36bda1c54db3276cf538d14ee946fed7908ad3ac0f4ffe7abf08a1eff7032",
-      "download_count": 70,
-      "created_at": "2026-11-27T04:32:22Z",
-      "updated_at": "2026-11-27T04:32:23Z",
-      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.0/last30days.skill"
+      "size": 1593844,
+      "digest": "sha256:799b05920a64f833504f99f5cf2015129b4f759c8b0373273c7495e5b73233d3",
+      "download_count": 14,
+      "created_at": "2026-11-28T07:33:34Z",
+      "updated_at": "2026-11-28T07:33:35Z",
+      "browser_download_url": "https://github.com/mvanhorn/last30days-skill/releases/download/v4.8.1/last30days.skill"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v4.8.0",
-  "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v4.8.0",
-  "body": "## What's Changed\n* fix(release): use macos-latest runner for darwin Rust core builds by @mvanhorn in https://github.com/mvanhorn/last30days-skill/pull/1640\n* feat: add Juejin as an opt-in keyless source by @typ646632922 in https://github.com/mvanhorn/last30days-skill/pull/1642\n* chore(release): bump version to 4.8.0 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1643\n\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v4.7.0...v4.8.0",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/tarball/v4.8.1",
+  "zipball_url": "https://api.github.com/repos/mvanhorn/last30days-skill/zipball/v4.8.1",
+  "body": "## What's Changed\n* fix: avoid bytecode caches in installed skills by @vincentkoc in https://github.com/mvanhorn/last30days-skill/pull/1653\n* docs: clarify YouTube caption availability by @qq2514568380 in https://github.com/mvanhorn/last30days-skill/pull/1644\n* fix(rerank): ignore leading trend modifiers in entity grounding by @mschoi0411 in https://github.com/mvanhorn/last30days-skill/pull/1647\n* fix(juejin): tolerate malformed counters and timestamps by @JoAdo07 in https://github.com/mvanhorn/last30days-skill/pull/1650\n* fix(save): shorten long-topic slugs in every saved filename by @chuenchen309 in https://github.com/mvanhorn/last30days-skill/pull/1641\n* docs(readme): add Juejin and V2EX rows to the source table in all 12 READMEs by @JoAdo07 in https://github.com/mvanhorn/last30days-skill/pull/1652\n* chore(release): bump version to 4.8.1 by @github-actions[bot] in https://github.com/mvanhorn/last30days-skill/pull/1657\n\n## New Contributors\n* @mschoi0411 made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1647\n* @JoAdo07 made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1650\n* @chuenchen309 made their first contribution in https://github.com/mvanhorn/last30days-skill/pull/1641\n\n**Full Changelog**: https://github.com/mvanhorn/last30days-skill/compare/v4.8.0...v4.8.1",
+  "mentions_count": 5
 }
